@@ -2,6 +2,9 @@
 
 Here: https://github.com/enderphan94/Learn-Power-Shell/wiki
 
+# Problems reported
+
+Here: https://github.com/enderphan94/Learn-Power-Shell/wiki#anatomy-ldap-attributes
 
 # About AD Tracking
 
