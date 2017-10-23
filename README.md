@@ -16,6 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 - Powershell Version 4 as a minimum 
+- Import-Module ActiveDirectory [How to import AD Module](https://github.com/enderphan94/Learn-Power-Shell/wiki#how-to-install-ad-cmdlets)
 - < Windows 7/ Windows Server 2012..
 - Run as regular user
 
