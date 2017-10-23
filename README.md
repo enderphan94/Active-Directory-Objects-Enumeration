@@ -29,7 +29,7 @@ A step by step series of examples that tell you have to get a development env ru
 
 1. Clone it to your directory:
 
-    `https://github.com/enderphan94/ad-Tracking/`
+    `git clone https://github.com/enderphan94/ad-Tracking/`
     
 2. Run as a regular user:
 
