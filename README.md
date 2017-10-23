@@ -7,9 +7,7 @@ Here: https://github.com/enderphan94/Learn-Power-Shell/wiki
 Here: https://github.com/enderphan94/Learn-Power-Shell/wiki#anatomy-ldap-attributes
 
 
-# Project Title
-
-Forensic: Active Directory Objects
+# Forensic: Active Directory Objects
 
 ## Getting Started
 
