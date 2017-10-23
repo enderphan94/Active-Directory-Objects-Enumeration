@@ -33,7 +33,7 @@ A step by step series of examples that tell you have to get a development env ru
     
 2. Run as a regular user:
 
-    `~user$:./adTracking.ps1`
+    `./adTracking.ps1`
     
 3. Follow the prompts given from the tool
 
@@ -50,10 +50,6 @@ In order to deploy this on a live system, you don't need an Admin account. You c
 ## Versioning
 
 Last version updated! - Version 1.2
-
-# Usages 1.2
-
-You just need to follow the tools instruction
 
 - Updates:
 
